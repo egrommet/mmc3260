@@ -22,9 +22,31 @@ https://vimeo.com/album/60951/video/73275757
 
 https://vimeo.com/album/60951/video/73275774
 
-### Links
+### Links (41:43)
 
 https://vimeo.com/album/60951/video/73314711
+
+* 0:00 Setup a new GitHub repository for your project.
+* 2:30 Clone your project repository so you can edit files.
+* 3:30 You should have two folders that are Git repositories.
+* 4:40 Downloading the Brackets code editor.
+* 7:50 Creating the first page of your project.
+* 9:30 Commit and sync with GitHub for Mac.
+* 10:45 Go to github.com to confirm sync succeeded.
+* 12:00 Why you want to develop locally.
+* 14:15 Previewing HTML in the browser.
+* 17:30 External links
+* 18:00 Making an `<a>` anchor tag with elements, attributes and values.
+* 21:50 `<em>` emphasis tag.
+* 25:20 `<code>` code tag.
+* 26:45 Absolute URLs contain `http://`.
+* 29:00 Internal links.
+* 30:45 Creating `about.html`.
+* 31:45 `<strong>` strong tag.
+* 32:45 File paths require a context.
+* 35:00 `title` attribute for accessibility.
+* 36:35 `mailto` to send email from a link.
+* 40:00 See your project site live on the web.
 
 ### Objects Are Made of Tags
 
