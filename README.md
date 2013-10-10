@@ -80,6 +80,11 @@ https://vimeo.com/album/60951/video/75182215
 
 https://vimeo.com/76584113
 
+* 0:00 Photo licenses and fair use
+* 4:25 Cropping
+* 8:40 Optimizing
+* 12:40 Resizing
+* 17:55 Alternatives to Photoshop
 
 
 ## Assignments for MMC3260
