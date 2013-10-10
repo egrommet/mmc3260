@@ -76,6 +76,9 @@ https://vimeo.com/album/60951/video/74207102
 
 https://vimeo.com/album/60951/video/75182215
 
+### Cropping and Optimizing Images with Photoshop
+
+https://vimeo.com/76584113
 
 
 
