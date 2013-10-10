@@ -95,10 +95,10 @@ Fix all broken absolute and relative URLs used for links and images.
 
 #### Due September 27: HTML wireframe
 
-#### Due October 4: CSS typography
-
-#### Due October 11: CSS selectors
-
 #### Due October 17: Personal website first draft
+
+#### Due TBA: CSS typography
+
+#### Due TBA: CSS selectors
 
 #### Due December 3: Personal website second draft
