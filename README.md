@@ -86,6 +86,15 @@ https://vimeo.com/76584113
 * 12:40 Resizing
 * 17:55 Alternatives to Photoshop
 
+### Iframe for Video, Map and Audio Embeds
+
+https://vimeo.com/76875414
+
+### Float and Clear
+
+https://vimeo.com/76875430
+
+
 
 ## Assignments for MMC3260
 
