@@ -86,15 +86,22 @@ https://vimeo.com/76584113
 * 12:40 Resizing
 * 17:55 Alternatives to Photoshop
 
-### Iframe for Video, Map and Audio Embeds
+### Iframe for Video, Map and Audio Embeds (1:55)
 
 https://vimeo.com/76875414
 
-### Float and Clear
+* 0:00 Embed a YouTube video as an iframe
+
+### Float and Clear (15:16)
 
 https://vimeo.com/76875430
 
-
+* 0:00 Half-width element for desktop view
+* 1:30 HTML `div` element
+* 2:45 HTML `aside` element
+* 5:20 Make a half-width aside using the `width` property
+* 6:30 CSS `float` property
+* 9:55 `clear` the footer
 
 ## Assignments for MMC3260
 
