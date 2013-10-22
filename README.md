@@ -103,6 +103,16 @@ https://vimeo.com/76875430
 * 6:30 CSS `float` property
 * 9:55 `clear` the footer
 
+### Media Queries
+
+### Using Chrome Dev Tools
+
+### CSS Selectors
+
+### Object-Oriented CSS
+
+### Testing
+
 ## Assignments for MMC3260
 
 #### Due August 30: Set-up your Wordpress blog and Github account
@@ -121,8 +131,8 @@ Fix all broken absolute and relative URLs used for links and images.
 
 #### Due October 17: Personal website first draft
 
-#### Due TBA: CSS typography
+#### Due November 7: CSS typography
 
-#### Due TBA: CSS selectors
+#### Due November: CSS selectors
 
 #### Due December 3: Personal website second draft
