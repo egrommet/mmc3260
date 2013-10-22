@@ -133,6 +133,6 @@ Fix all broken absolute and relative URLs used for links and images.
 
 #### Due November 7: CSS typography
 
-#### Due November: CSS selectors
+#### Due November 21: CSS selectors
 
 #### Due December 3: Personal website second draft
