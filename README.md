@@ -103,9 +103,19 @@ https://vimeo.com/76875430
 * 6:30 CSS `float` property
 * 9:55 `clear` the footer
 
-### Media Queries
+### Using Web Inspector
 
-### Using Chrome Dev Tools
+http://vimeo.com/78179491
+
+* 0:30 Common filename problems
+* 1:00 Forking a public repository
+* 3:15 Renaming, rearranging and restructuring files
+* 18:00 Ensuring we have semantic markup to allow for a 2-column design
+* 21:58 CSS not loading? Check your path.
+* 23:52 Chrome's web inspector and developer tools
+* 31:50 2-column responsive layout
+
+### Media Queries
 
 ### CSS Selectors
 
