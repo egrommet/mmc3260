@@ -103,7 +103,7 @@ https://vimeo.com/76875430
 * 6:30 CSS `float` property
 * 9:55 `clear` the footer
 
-### Using Web Inspector
+### Using Web Inspector (37:20)
 
 http://vimeo.com/78179491
 
@@ -115,13 +115,13 @@ http://vimeo.com/78179491
 * 23:52 Chrome's web inspector and developer tools
 * 31:50 2-column responsive layout
 
-### Media Queries
+### Media Queries (24:39)
 
-### CSS Selectors
+https://vimeo.com/78232538
 
-### Object-Oriented CSS
+### GitHub Issues (4:50)
 
-### Testing
+https://vimeo.com/78232975
 
 ## Assignments for MMC3260
 
