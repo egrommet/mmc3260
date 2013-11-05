@@ -119,6 +119,15 @@ http://vimeo.com/78179491
 
 https://vimeo.com/78232538
 
+* 4:35 Your first media query
+* 8:00 Leave side margins to allow for touch targets
+* 8:15 Refactor (clean up) so we aren't applying repetitive styles
+* 11:30 Styling nav for phones
+* 16:15 `display` and `text-align`
+* 20:20 combination selector
+* 21:30 Exercise 4 explanation and requirements
+* 22:50 CSS selectors: combination, descendent, id
+
 ### GitHub Issues (4:50)
 
 https://vimeo.com/78232975
@@ -141,7 +150,10 @@ Fix all broken absolute and relative URLs used for links and images.
 
 #### Due October 17: Personal website first draft
 
-#### Due November 7: CSS typography
+#### Due November 12: CSS typography
+
+* Set h1, h2 and p styles for desktop
+* Override those styles for phone width
 
 #### Due November 21: CSS selectors
 
